@@ -144,6 +144,13 @@
 		padding-inline: 6rem;
 	}
 
+}
+
+@media (min-width:1440px) {
+		.cards-wrapper {
+		padding-inline: 11rem;
+	}
+
 	
 }
 
