@@ -3,7 +3,7 @@
 
 	const cards=[
 		{
-			image: '/src/lib/assets/trek-everest.jpg',
+			image: '/trek-everest.jpg',
 			location: 'Nepal',
 			duration: '14 Days',
 			title: 'Everest Base Camp',
@@ -12,7 +12,7 @@
 			amenities: ['Expert guides', 'All meals included', 'Permits & fees', 'Luxury lodges']
 		},
 		{
-			image: '/src/lib/assets/trek-annapurna.jpg',
+			image: '/trek-annapurna.jpg',
 			location: 'Nepal',
 			duration: '18 Days',
 			title: 'Annapurna Circuit',
@@ -21,7 +21,7 @@
 			amenities: ['Cultural immersion', 'Tea house stays', 'Thorong La Pass', 'Hot springs']
 		},
 		{
-			image: '/src/lib/assets/trek-patagonia.jpg',
+			image: '/trek-patagonia.jpg',
 			location: 'Patagonia',
 			duration: '10 Days',
 			title: 'Torres del Paine',
@@ -30,7 +30,7 @@
 			amenities: ['Glacier trekking','Wildlife viewing','Premium camping','Photography guide']
 		},
 		{
-			image: '/src/lib/assets/trek-kilimanjaro.jpg',
+			image: '/trek-kilimanjaro.jpg',
 			location: 'Tanzania',
 			duration: '8 Days',
 			title: 'Kilimanjaro Summit',

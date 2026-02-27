@@ -5,22 +5,22 @@
 		{
 			location: 'Nepal',
 			title: 'Everest Sunrise',
-			image: '/src/lib/assets/trek-everest.jpg'
+			image: '/trek-everest.jpg'
 		},
 		{
 			location: 'Nepal',
 			title: 'Thorong La Pass',
-			image: '/src/lib/assets/trek-annapurna.jpg'
+			image: '/trek-annapurna.jpg'
 		},
 		{
 			location: 'Patagonia',
 			title: 'Grey Glacier',
-			image: '/src/lib/assets/trek-patagonia.jpg'
+			image: '/trek-patagonia.jpg'
 		},
 		{
 			location: 'Tanzania',
 			title: 'Uhuru Peak',
-			image: '/src/lib/assets/trek-kilimanjaro.jpg'
+			image: '/trek-kilimanjaro.jpg'
 		}
 	];
 </script>
